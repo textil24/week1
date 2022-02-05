@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "textil24",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
